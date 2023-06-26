@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Nicki Skafte Detlefsen"
+title                    : "Anders Bo Sørensen"
 title_separator          : "-"
 name                     : &name "Nicki Skafte Detlefsen"
 description              : &description "My personal webpage"
-url                      : https://skaftenicki.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://absorensen.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "https://github.com/SkafteNicki/SkafteNicki.github.io"
+repository               : "https://github.com/absorensen/absorensen.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Nicki Skafte Detlefsen"
-  avatar           : "profile.png"
-  bio              : "Just a dude that likes machine learning, programming, memes and gardening (in no particular order). Current research interest: deep generative models, uncertainty estimation and MLOps. Also I am a Postdoc at Technical University of Denmark."
+  name             : "A. B. Sørensen"
+  avatar           : ""
+  bio              : "Put a bio HERE"
   location         : "Denmark"
   employer         : "Technical University of Denmark"
   pubmed           :  # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.dk/citations?user=0v4MJq8AAAAJ&hl=da"
-  email            : "skaftenicki@gmail.com"
+  googlescholar    : ""
+  email            : "anders-soerensen@hotmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,13 +96,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "SkafteNicki"
+  github           : "absorensen"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/nicki-skafte-detlefsen-956741223/"
+  linkedin         : "https://www.linkedin.com/in/anders-bo-sorensen/"
   orcid            : # "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
