@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Anders Bo Sørensen"
+title                    : "A. B. Sørensen"
 title_separator          : "-"
-name                     : &name "Nicki Skafte Detlefsen"
+name                     : &name "A. B. Sørensen"
 description              : &description "My personal webpage"
 url                      : https://absorensen.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
