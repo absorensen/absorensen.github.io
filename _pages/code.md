@@ -5,4 +5,4 @@ permalink: /code/
 author_profile: true
 ---
 
-Github profile: <https://github.com/absorensen>
+Check my GitHub profile for code (icon on the left).
