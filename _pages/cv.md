@@ -9,20 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-<a href="https://github.com/absorensen/absorensen.github.io/blob/master/files/CV.pdf">PDF version</a>
-
-Education
-======
-
-
-Work experience
-======
-
-
-Teaching
-======
-
-
-
-Skills
-======
+Check out my LinkedIn page (icon on the left).
