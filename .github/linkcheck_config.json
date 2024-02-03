@@ -18,7 +18,19 @@
         },
         {
             "pattern": "^https://api.github.*"
-        }
+        },
+        {
+            "pattern": "https://www.researchgate.net/figure/The-work-principle-of-Morton-codes-a-Morton-code-and-traversal-ordering-for-a-2D-grid_fig4_354791070"
+        },
+        {
+            "pattern": "https://www.researchgate.net/figure/Spatial-ordering-and-encoding-based-on-the-Morton-curve-left-and-the-Hilbert-curve_fig2_220616180"
+        },
+        {
+            "pattern": "https://www.researchgate.net/figure/Calculations-involved-in-a-1D-convolution-operation_fig3_324177888"
+        },
+        {
+            "pattern": "https://www.researchgate.net/publication/354065094_Practical_Spatial_Hash_Map_Updates"
+        }        
     ],
     "aliveStatusCodes": [
         0,

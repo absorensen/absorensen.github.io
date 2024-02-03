@@ -1,11 +1,13 @@
-site_name: Anders Bo Sørensen
+site_name: Hello There
 docs_dir: .
 site_dir: ../site
-repo_url: https://www.github.com/absorensen/absorensen.github.io
+repo_url: https://github.com/absorensen/absorensen.github.io
 
 theme:
   language: en
   name: material
+  favicon: figures/nebula.png
+  logo: figures/nebula.png
   icon:
     repo: fontawesome/brands/github
   palette:
@@ -25,9 +27,10 @@ theme:
   features:
     - navigation.instant
     - navigation.indexes
-    - navigation.tabs
-    - navigation.tabs.sticky
     - content.code.copy
+    - navigation.footer
+    - search.suggest
+    - search.highlight
 
 markdown_extensions:
   - pymdownx.highlight:
@@ -38,9 +41,6 @@ markdown_extensions:
   - pymdownx.snippets
   - pymdownx.superfences
   - attr_list
-  - pymdownx.emoji:
-      emoji_index: !!python/name:materialx.emoji.twemoji
-      emoji_generator: !!python/name:materialx.emoji.to_svg
   - md_in_html
   - admonition
   - pymdownx.details
@@ -51,8 +51,11 @@ markdown_extensions:
       custom_checkbox: true
 
 plugins:
+  - search
   - glightbox
   - same-dir
+  - git-revision-date-localized:
+      enable_creation_date: true
 
 extra:
   social:
@@ -70,4 +73,3 @@ nav:
   - CV: cv.md
   - Blog: 
     - blog/README.md
-
