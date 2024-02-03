@@ -1,7 +1,7 @@
 site_name: Anders Bo Sørensen
 docs_dir: .
 site_dir: ../site
-repo_url: https://github.com/absorensen/absorensen.github.io
+repo_url: https://www.github.com/absorensen/absorensen.github.io
 
 theme:
   language: en
@@ -59,7 +59,7 @@ extra:
     - icon: material/email
       link: mailto:anders-soerensen@hotmail.com
     - icon: fontawesome/brands/github
-      link: https://github.com/absorensen
+      link: https://www.github.com/absorensen
     - icon: fontawesome/brands/linkedin
       link: https://www.linkedin.com/in/anders-bo-sorensen/
 
