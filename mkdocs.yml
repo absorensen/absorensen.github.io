@@ -28,6 +28,7 @@ theme:
   language: en
   name: material
   icon:
+    favicon: fontawesome/solid/bolt
     logo: fontawesome/solid/bolt
     repo: fontawesome/brands/github
   palette:
